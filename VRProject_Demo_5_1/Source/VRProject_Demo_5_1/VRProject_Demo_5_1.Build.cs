@@ -8,7 +8,7 @@ public class VRProject_Demo_5_1 : ModuleRules
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	
-		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "VRExpansionPlugin"});
+		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore"});
 
 		PrivateDependencyModuleNames.AddRange(new string[] {  });
 
