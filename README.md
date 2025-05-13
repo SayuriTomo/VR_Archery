@@ -1,4 +1,4 @@
-# VR_Project
+# VR_Archery
 How to run:
 Enter the editor then play in VR Preview. (Better use Meta Quest3)
 
